@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "SignUpUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "firstname": "syed",
+      "lastname": "juned",
+      "email": "syedjuned8125@gmail.com",
+      "password": "syedjuned",
+      "ConfirmPassword": "",
+      "id": 2
+    },
+    {
+      "firstname": "syed",
+      "lastname": "juend",
+      "email": "syedjuned175@gmail.com",
+      "password": "bsahkhd",
+      "ConfirmPassword": "",
+      "id": 3
+    },
+    {
+      "firstname": "syed",
+      "lastname": "affan",
+      "email": "affansyed73@gmail.com",
+      "password": "affan786",
+      "ConfirmPassword": "",
+      "id": 4
+    },
+    {
+      "firstname": "syed",
+      "lastname": "juned",
+      "email": "syedjuned999@gmail.com",
+      "password": "juned333",
+      "ConfirmPassword": "",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
